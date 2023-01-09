@@ -17,9 +17,7 @@ public class Collection {
 		list.add("shwet");
 		list.add("shankar");
 		
-		for(String s :list) {
-			System.out.println(s);
-		}
+		System.out.println(list);
 		
 	}
 }
